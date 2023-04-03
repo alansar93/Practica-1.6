@@ -15,8 +15,8 @@ let Email = prompt("Email Persona");
 document.write("<h1>" + "Tu" + " " + "email" + " " + "es" + " " + Email + "</h1>" );
 
 /* let Sexo = "Sexo Persona" */
-let Hijo = prompt("Tenes Hijos? F verdadero, N negativo");
-document.write("<h1>" + "tu" + " " + "respuesta" + " " + "es" + " " + Hijo);
+let Hijo = prompt("Tenes Hijos? T verdadero, N negativo");
+document.write("<h1>" + "Tu" + " " + "respuesta" + " " + "es" + " " + Hijo);
 
 
 
